@@ -29,6 +29,7 @@
 9. mock-agreements/05-consulting.pdf
 
 DOCX 與 PDF 都必須確認取得實際文字內容。
+PDF 必須使用 Claude Code 原生 Read 工具進行讀取，不得只依賴 Shell 的文字擷取結果。
 
 如果 PDF 無法直接解析，請嘗試可用的文字擷取或 OCR 方式。仍然無法讀取時，明確標記該檔案為無法讀取，不得宣稱已經完成分析。
 
