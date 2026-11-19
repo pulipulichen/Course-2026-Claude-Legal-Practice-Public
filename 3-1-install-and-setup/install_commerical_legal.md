@@ -1,0 +1,1 @@
+/plugin install commercial-legal@claude-for-legal
