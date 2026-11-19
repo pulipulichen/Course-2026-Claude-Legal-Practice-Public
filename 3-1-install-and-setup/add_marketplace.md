@@ -1,1 +1,0 @@
-/plugin marketplace add anthropics/claude-for-legal
